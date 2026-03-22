@@ -42,4 +42,3 @@ This project displays:
 
 ## 👤 Author
 Crystal Michelle Boswell
-
